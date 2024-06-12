@@ -1,0 +1,9 @@
+util/Maquina.class
+util/Componentes.class
+program/Main.class
+bancoDeDados/InserirDadosNaTabela.class
+bancoDeDados/Conexao.class
+util/ApresentarDados.class
+util/Log.class
+util/Slack.class
+bancoDeDados/ConexaoServer.class
